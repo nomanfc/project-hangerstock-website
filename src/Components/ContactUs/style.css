@@ -1,0 +1,9 @@
+.select-email:focus {
+  outline: none;
+  box-shadow: none !important;
+}
+
+.file-upload:focus {
+  outline: none;
+  box-shadow: none !important;
+}
